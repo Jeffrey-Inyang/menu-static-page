@@ -1,0 +1,12 @@
+.h {
+  color: green;
+  text-align: center;
+}
+
+.p {
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.p li {
+  list-style-type: square;
+}

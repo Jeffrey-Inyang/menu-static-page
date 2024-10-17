@@ -1,0 +1,37 @@
+.container {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.container h1 {
+  text-align: center;
+  letter-spacing: 0.1em;
+  margin-bottom: 15px;
+}
+
+.imgCard {
+  width: 300px;
+  height: 180px;
+}
+
+.imgCard img {
+  width: 100%;
+  padding-right: 28px;
+  object-fit: cover;
+}
+
+.card {
+  padding: 12px;
+  display: flex;
+  justify-content: center;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  width: 300px;
+  margin-top: 15px;
+}
+
+.cardContain {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
